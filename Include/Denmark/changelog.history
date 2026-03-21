@@ -28,6 +28,12 @@ EKBI
 - New waypoints BI371, BI372 and BI373 on SID’s.
 - SID serial numbers updated.
 
+///// 21.03.2026 /////
+[] EKRK - Roskilde
+- Updated SID planning overlay to match latest EKRK flight planning chart data.
+- Replaced old ODN display label with ODDON and removed obsolete route labels.
+- Added compact route availability and level restriction tags for prop and jet departures.
+
 ///// JULY /////
 [] EKRK - Roskild
 - Overhauled GEO
